@@ -8,8 +8,8 @@ import './App.css';
 const App = props => {
   return (
     <div className='App'>
-      <User userId={5} />
-      <Post postId={15} />
+      <User userId={9} />
+      <Post postId={1} />
     </div>
   );
 };
